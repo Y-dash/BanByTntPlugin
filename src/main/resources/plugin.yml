@@ -1,0 +1,7 @@
+name: Ban By Tnt Plugin
+version: ${project.version}
+main: net.y_dash.minecraft.ban_by_tnt_plugin.banbytntplugin.BanByTntPlugin
+api-version: 1.15
+authors: [Ydash]
+description: TNTの爆破に巻き込まれたらBANされるプラグイン。  
+website: https://y-dash.net
